@@ -27,3 +27,8 @@
   ![Snake animation](https://github.com/Larsonkv/Larsonkv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+  ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
